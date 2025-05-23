@@ -2,7 +2,7 @@
 
 /* 
 This program creates a list of random numbers and sorts them using Bubble Sort.
-It compares the adjacent numbers and swaps them if they are out of order.abort
+It compares the adjacent numbers and swaps them if they are out of order.
 This process continues until the entire list is sorted.
 The program generates random numbers in the range of 0 to 99999.
 The user can specify the number of elements to be sorted. 
